@@ -20,7 +20,7 @@ This is an unpacked extension (not on the Chrome Web Store yet).
 
 1. Download or clone this repo:
    ```bash
-   git clone https://github.com/joe-jns/ghl-aistudio-exporter.git
+   git clone https://github.com/theuserjoe/ghl-aistudio-exporter.git
    ```
 2. Open `chrome://extensions` in Chrome (or any Chromium-based browser).
 3. Toggle **Developer mode** on (top right).
